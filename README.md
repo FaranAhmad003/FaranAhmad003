@@ -29,6 +29,8 @@
 - 🛠 [Portfolio Builder (React + Redux)](https://github.com/FaranAhmad003/your-portfolio-builder-repo)
 
 ---
+![Repo Stars](https://img.shields.io/github/stars/FaranAhmad003/your-repo-name?style=social)
+
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faran-ahmad-/)
