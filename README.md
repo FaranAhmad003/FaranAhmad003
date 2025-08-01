@@ -39,3 +39,19 @@
 ---
 
 > “Keep building. Keep learning. The code never lies.”
+
+---
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <div style="min-width: 150px;">
+    <h3>🏅 My Stats</h3>
+    <img src="https://img.shields.io/github/stars/FaranAhmad003?style=social" /><br>
+    <img src="https://img.shields.io/github/followers/FaranAhmad003?style=social" /><br>
+    <img src="https://img.shields.io/github/forks/FaranAhmad003?style=social" />
+  </div>
+  <div>
+    <h2>👋 Hi, I'm Faran Ahmad</h2>
+    <p>I'm a full-stack dev specializing in React, NestJS, PostgreSQL, and Flutter.</p>
+    <p>Currently building cool projects with Stripe, GraphQL, and MobX.</p>
+  </div>
+</div>
