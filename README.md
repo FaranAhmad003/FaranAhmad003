@@ -24,9 +24,9 @@
 ---
 
 ### 🧩 Featured Projects
-- 🚀 [Chat App (NestJS + Next.js + PostgreSQL)](https://github.com/FaranAhmad003/your-chatapp-repo)
+- 🚀 [Employee Evaluation Project (NestJS + Next.js + PostgreSQL)](https://github.com/zohaibzahid1/Employee_Evaluation_System)
 - 📚 [Book Store with Stripe Payments](https://github.com/FaranAhmad003/your-bookstore-repo)
-- 🛠 [Portfolio Builder (React + Redux)](https://github.com/FaranAhmad003/your-portfolio-builder-repo)
+
 
 ---
 ![Repo Stars](https://img.shields.io/github/stars/FaranAhmad003/your-repo-name?style=social)
